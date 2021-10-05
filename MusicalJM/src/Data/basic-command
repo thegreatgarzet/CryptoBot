@@ -1,0 +1,35 @@
+const Command = require("../Structures/Command.js");
+
+module.exports = new Command({
+    name: "",
+    description: "",
+    args: "",
+    permission: "SEND_MESSAGES",
+    async run(message, args, client){
+
+      
+    }
+});
+
+for (let index = 0; index < this.streamArray.length; index++) {
+            ytdl.getInfo(this.streamArray[0].video_url).then(info => {
+                this.titlearray.push(info.videoDetails.title);
+                console.log(info.videoDetails.title);
+                if(this.titlearray.length == this.streamArray.length){
+                    let queuetext = '';
+                    for (let index = 1; index < this.titlearray.length; index++) {
+                        queuetext += `${index + 1} - ${this.titlearray[index]}\n`
+                        if(index == this.titlearray.length){
+                            message.reply
+                            (`\n
+                            NOW PLAYING - ${this.titlearray[0]}
+                            \n
+                            
+                            \n`);
+                        }
+                        
+                    }
+                }
+            });
+
+        }

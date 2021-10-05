@@ -1,0 +1,33 @@
+[
+    {
+        "moeda": "plant-vs-undead-token",
+        "abreviacao": "pvu"
+    },
+    {
+    "moeda": "bomber-coin",
+    "abreviacao": "bcoin"
+    },{
+        "moeda": "axie-infinity",
+        "abreviacao": "axs"
+        
+    },
+    {
+        "moeda": "smooth-love-potion",
+        "abreviacao": "slp"
+    }
+    ,
+    {
+        "moeda": "dogecoin",
+        "abreviacao": "doge"
+    }
+    ,
+    {
+        "moeda": "avalanche-2",
+        "abreviacao": "avax"
+    }
+    ,
+    {
+        "moeda": "binancecoin",
+        "abreviacao": "bnb"
+    }
+]
