@@ -1,2 +1,2 @@
 # CryptoBot
- A bot for my discord server
+ A simple discord bot to track cryptocurrencies values
